@@ -1,0 +1,18 @@
+.heading {
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+}
+.box {
+  background-color: lightgreen;
+}
+div.box h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.list li.bluetxt {
+  color: lightseagreen;
+}
+.list li.strike {
+  text-decoration-line: line-through;
+}
