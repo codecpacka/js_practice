@@ -12,12 +12,12 @@ const ram=()=>{
 // console.log(fruits.pop());  
 // console.log(typeof temp, temp);
 
-//cloning one array into another
+// note: cloning one array into another
 
 // arr1 = ["item1", "item2", "item3", "item4"];
 
-// arr2 = arr1.slice(0);
-// arr2 = [].concat(...arr1);
+//  note: arr2 = arr1.slice(0);
+//  note: arr2 = [].concat(...arr1);
 // arr1.push("item3");
 // arr2.
     // console.log(arr1);

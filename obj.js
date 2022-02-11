@@ -44,7 +44,7 @@ const band={
 // console.log(bandName);
 
 // destructuring objects 
-// note:variable name should be same as key name in simple destruceing 
+//  note:variable name should be same as key name in simple destruceing 
 console.log(band);
 const {bandname,famousSong }=band;
 console.log(bandname);

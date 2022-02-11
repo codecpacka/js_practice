@@ -1,12 +1,12 @@
 console.log("this file contains functions");
-// note:this file contains function and its types
+//  note:this file contains function and its types
 function singHappyBirthday(){
     console.log("happy birthday to you.....");
 }
 
 singHappyBirthday();
 
-//note:passing paramets to a javascript  function 
+// note:passing paramets to a javascript  function 
 function sum(num1,num2){ //num1,num2 are parameters
     return num1+num2;
 }

@@ -11,7 +11,7 @@
 //     console.log("number is odd");
 // }
 
-// // note:creating a function with
+// //  note:creating a function with
 // // input:string
 // // return:first charecter of that string
 
@@ -20,7 +20,7 @@
 // }
 // console.log("first character is "+ firstCharacter("ramprasad"));
 
-// // note:creatin a function that return index value of target element
+// //  note:creatin a function that return index value of target element
 
 // function searchElement(arr,value){
 //     for(let i in arr){
@@ -33,8 +33,8 @@
 // let array=[30,2,5];
 // console.log("value found at index :- "+searchElement(array,10));
 
-// note:functions can be made in many ways above are function declaration
-//imp: now converting above function into function exprerssion
+//  note:functions can be made in many ways above are function declaration
+//imp:  now converting above function into function exprerssion
 
 // function isEven(num) {
 //   return num % 2 == 0;

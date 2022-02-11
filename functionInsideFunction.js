@@ -1,4 +1,4 @@
-// note:calling one function from inside of another function
+//  note:calling one function from inside of another function
 const app=()=>{
     const myFunc=()=>{
         console.log("hello from my function");

@@ -1,13 +1,13 @@
 console.log("rest parameters");
-// note: ...c here ... is rest parameter syntax c is variable
+//  note: ...c here ... is rest parameter syntax c is variable
 function myFunc(a,b,...c){
 console.log(a,b,c);
-// imp:here a=12,b=56,c=array of remaining elements
+// imp: here a=12,b=56,c=array of remaining elements
 }
 
 myFunc(12,56,23,78,67);
 
-// note:creating a function add all 
+//  note:creating a function add all 
 // input:all function parameters
 // output:sum of all passed parameters
 
