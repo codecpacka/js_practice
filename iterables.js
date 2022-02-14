@@ -9,4 +9,4 @@ for(char of name){
 //array like object 
 //jinke pass length property hoti hain
 //aur jinko hum index se acces kar sakte hain 
-//example stringb
+//example string
